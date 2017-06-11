@@ -14,7 +14,7 @@
 		</style>
 	</head>
 	<body>
-		<a href="http£º//apress.com">Visit the Apress website</a>
+		<a href="http://apress.com">Visit the Apress website</a>
 		<p>I like <span>apples</span> and oranges.</p>
 		<a href="http://w3c.org">Visit the W3C website</a>
 		<?php print "This is Our Soil!" ?>
